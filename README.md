@@ -89,7 +89,7 @@ Dependencies can be installed via:
 
 ```bash
 pip install -r requirements.txt
-
+```
 ---
 
 ## License
